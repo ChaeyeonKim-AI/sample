@@ -1,0 +1,4 @@
+# 설치한 파일 기록
+langchain
+openai
+streamlit
